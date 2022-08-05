@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ---
-Since November 2021, I am Ph.D. student at the Dipartimento di Elettronica, Informazione e Bioingegneria 
+Since November 2021, I am a Ph.D. student at the Dipartimento di Elettronica, Informazione e Bioingegneria 
 ([DEIB](https://www.deib.polimi.it/)), in the [RecSys lab](https://recsys.deib.polimi.it/)
 of [Politecnico di Milano](https://www.polimi.it/).
 
@@ -22,6 +22,11 @@ I am also interested in Reinforcement Learning, Causal Inference, Statistics, an
 
 Research Projects and Thesis
 ---
+We have many research projects ongoing. If you want to make a research project or a thesis with us, send me an email at
+
+`nicolo DOT felicioni AT polimi DOT it`
+
+
 
 <br>
 
