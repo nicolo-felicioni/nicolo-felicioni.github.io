@@ -17,7 +17,7 @@ Research Interests
 ---
 My main research interest is in Machine Learning. In particular, I am focusing on Off-Policy Evaluation and Learning from Contextual Bandit feedback.
 This research topic finds applications in many fields such as recommendation systems, treatment effect evaluation, information retrieval. 
-I am also interested in Reinforcement Learning, Causal Inference, Statistics, and Deep Learning.
+I am also interested in Reinforcement Learning, Causal Inference, Statistics, Domain Adaptation, and Deep Learning.
 
 
 Research Projects and Thesis
