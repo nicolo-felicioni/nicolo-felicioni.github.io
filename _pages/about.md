@@ -27,9 +27,6 @@ We have many research projects ongoing. If you want to make a research project o
 `nicolo DOT felicioni AT polimi DOT it`
 
 
-
-<br>
-
 Education
 ---
 * Ph.D. in Computer Science, Politecnico di Milano, 2021-Present
