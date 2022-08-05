@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Nicolò Felicioni"
-excerpt: "About me"
+title: "About me"
+excerpt: "Nicolò Felicioni"
 author_profile: true
 redirect_from: 
   - /about/
