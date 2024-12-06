@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. student in Computer Science at [Politecnico di Milano](https://www.polimi.it/), where I work in the [RecSys Lab](https://recsys.deib.polimi.it/) under the supervision of Prof. Paolo Cremonesi. My research focuses on developing and evaluating AI agents that can safely and effectively interact with the real world.
+I am a final-year Ph.D. student in Computer Science at [Politecnico di Milano](https://www.polimi.it/), where I work under the supervision of Prof. Paolo Cremonesi. My research focuses on developing and evaluating AI agents that can safely and effectively interact with the real world.
 
 Research Interests
 ---
@@ -36,7 +36,7 @@ Experience
 ---
 - **Applied Scientist Intern** @ Amazon (Summer 2024)  
   Greater Los Angeles Area, CA, US  
-  Worked on large-scale machine learning applications
+  Worked on large-scale machine learning applications for personalization
 
 - **Research Scientist Intern** @ Spotify Research (Summer 2023)  
   London, UK (Remote from Italy)  
