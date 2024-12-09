@@ -10,13 +10,16 @@ redirect_from:
 
 I am a final-year Ph.D. student in Computer Science at [Politecnico di Milano](https://www.polimi.it/), where I work under the supervision of Prof. Paolo Cremonesi. My research focuses on developing and evaluating AI agents that can safely and effectively interact with the real world.
 
+
+
 Research Interests
 ---
+
 My research lies at the intersection of AI Agents, Multi-Armed Bandits, and Large Language Models. I am particularly interested in:
-- Off-Policy Evaluation and Learning for AI agents
 - Decision-making with Large Language Models
-- Uncertainty estimation in machine Large Models
-- Applications to recommendation systems and human-AI interaction
+- Uncertainty estimation in Large Language Models
+- Off-Policy Evaluation and Learning for AI agents
+- Applications to recommendation systems and personalization
 
 Selected Publications
 ---
